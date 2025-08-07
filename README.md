@@ -13,9 +13,7 @@
 
 To view the live website hosted via GitHub Pages:
 
-👉 https://your-username.github.io/legacy-enterprise-site/
-
-> Replace `your-username` with your actual GitHub username.
+👉 https://G4WIN21.github.io/legacyuas.com-websit_design
 
 ## 📁 Project Structure
 
