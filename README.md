@@ -13,7 +13,7 @@
 
 To view the live website hosted via GitHub Pages:
 
-👉 https://G4WIN21.github.io/legacyuas.com-websit_design
+👉 https://G4WIN21.github.io/legacyuas.com-website_design
 
 ## 📁 Project Structure
 
